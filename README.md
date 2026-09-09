@@ -1,1 +1,1 @@
-# VINCE-NT Documentation, Discussion, and Issue Tracking
+# VINCE-NT Documentation and Issue Tracking
